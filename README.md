@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Algorithms,Blockchains**
 
-- 👨‍💻 All of my projects are available at [https://github.com/drunckj](https://github.com/drunckj)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/drunckj?tab=repositories)
 
 - 📝 I regularly write articles on [cybersecurity and linux](cybersecurity and linux)
 
