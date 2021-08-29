@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/drunckj?tab=repositories)
 
-- 📝 I regularly write articles on [cybersecurity and linux](cybersecurity and linux)
+- 📝 I regularly write articles on [Dev.to](https://dev.to/drunckj)
 
 - 💬 Ask me about **bash,python,c,linux**
 
