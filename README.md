@@ -19,9 +19,6 @@
 
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/10UYtoj9FxKtM_9sh7g9rBzCwbCIf3ALL/edit?usp=sharing&ouid=113306616468272930705&rtpof=true&sd=true)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
