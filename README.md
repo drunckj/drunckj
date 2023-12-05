@@ -6,9 +6,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drunckj" alt="drunckj" /></a> </p>
 
-- 🔭 I’m currently working on **Cats&Paws**
-
-- 🌱 I’m currently learning **Data structures and Algorithms**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/drunckj?tab=repositories)
 
